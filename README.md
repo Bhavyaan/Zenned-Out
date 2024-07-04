@@ -1,16 +1,8 @@
-# zenned_out
+ HEAD
 
-A new Flutter project.
+# Zenned-Out
+ZennedOut is a student assistant app that offers a unified platform for task organization, time management, project tracking, expense monitoring, and academic performance analysis. It aims to simplify students' lives, enhance productivity and organization, and improve academic and social performance.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+In today's fast-paced academic environment, students often find themselves overwhelmed by the multitude of tasks, responsibilities, and commitments they must juggle. This leads to stress, decreased academic performance, and a diminished social life. While various productivity tools exist to assist students, they often fall short in providing a comprehensive solution tailored to the specific needs of the student demographic.
+ZennedOut, a student assistant app designed to address these challenges by offering a unified and customizable platform. ZennedOut integrates essential productivity elements such as task organization, time management, project tracking, expense monitoring, and academic performance analysis into a seamless and user-friendly interface. By doing so, it aims to streamline and simplify the daily lives of students, enhance their productivity and organization, and ultimately improve their academic and social performance.
+73e22cdcf6e4c9800b287bea65b64c72f5cce1a6
